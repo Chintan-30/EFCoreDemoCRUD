@@ -1,5 +1,3 @@
-Here’s a simple yet effective structure for your GitHub README file. It introduces your project and provides instructions for users to get started:
-
 Basic Demo CRUD API using .NET Core, EF Core, and SQL Server
 🛠️ Project Overview
 This is a simple CRUD API built with .NET Core, Entity Framework Core, and SQL Server. It demonstrates the basic operations for Create, Read, Update, and Delete, making it ideal for learning the fundamentals of building APIs and database interactions.
